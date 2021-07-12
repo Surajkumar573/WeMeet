@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## WeMeet - Flutter Video Conferencing App 
 
 Go ahead and video chat with your friends and colleagues. WeMeet is a fully encrypted video conferencing solution that you can use all day, every day, for free.
@@ -51,3 +52,7 @@ Firebase - Platform that helps you quickly develop high-quality apps. Firebase p
 
 ## Screenshots
 
+=======
+# WeMeet
+The video conferencing app
+>>>>>>> 5fe267a255970c8d10e55ddb3b0b76fa9da94bf7
